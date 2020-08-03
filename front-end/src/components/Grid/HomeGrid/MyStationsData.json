@@ -1,0 +1,12 @@
+
+[
+  {
+    "id": "1",
+    "stationName": "Basecom",
+    "img": "./Styling/station.jpg",
+    "station id": 201,
+    "Address": "Degloor Naka,Maharashtra,Nanded",
+    "NoofPorts": 5,
+    "Contact": 8600655881
+  }
+]
